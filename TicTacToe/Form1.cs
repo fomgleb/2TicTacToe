@@ -57,6 +57,16 @@ namespace TicTacToe
             button8.Text = "";
             button9.Text = "";
 
+            button1.BackColor = Color.Empty;
+            button2.BackColor = Color.Empty;
+            button3.BackColor = Color.Empty;
+            button4.BackColor = Color.Empty;
+            button5.BackColor = Color.Empty;
+            button6.BackColor = Color.Empty;
+            button7.BackColor = Color.Empty;
+            button8.BackColor = Color.Empty;
+            button9.BackColor = Color.Empty;
+
             player = 1;
 
             Set_playersNames();
